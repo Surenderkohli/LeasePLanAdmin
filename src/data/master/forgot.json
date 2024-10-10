@@ -1,0 +1,45 @@
+{
+    "logo": {
+        "path": "/ecommerce",
+        "src": "/logo.svg",
+        "alt": "blue",
+        "name": "LeasePlan"
+    },
+    "pattern": { 
+        "src": "/patrn.webp", 
+        "alt": "line-pattern" 
+    },
+    "title": "Reset the Password",
+    "input": [
+        { 
+            "icon": "email",
+            "type": "email", 
+            "placeholder": "Enter your email",
+            "fieldSize": "h-sm"
+        }
+    ],
+    "button": { "type": "button", "text": "get OTP", "fieldSize": "h-sm" },
+
+    "inputotp": [
+        { 
+            "icon": "verified_user",
+            "type": "text", 
+            "placeholder": "Enter your OTP",
+            "fieldSize": "h-sm"
+        },
+        { 
+            "icon": "add_moderator",
+            "type": "password", 
+            "placeholder": "Enter your New password",
+            "fieldSize": "h-sm"
+        }
+
+    ],
+
+    "buttonotp": { "type": "button", "text": "Reset Password", "fieldSize": "h-sm" },
+    "navigate": {
+        "title": "Remember the password?",
+        "path": "/",
+        "text": "login"
+    }
+}

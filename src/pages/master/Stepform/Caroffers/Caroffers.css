@@ -1,0 +1,18 @@
+
+
+.rightoffer{
+    position: relative;
+    left: 89%;
+}
+
+.switch-off.btn {
+    padding-left: 1.5rem;
+    background: #7c6758 !important;
+}
+
+.switch.btn {
+    min-width: 3.7rem;
+    min-height: calc(1.5em + 0.75rem + 2px);
+    width: 85px;
+    padding: 18px 0px;
+}

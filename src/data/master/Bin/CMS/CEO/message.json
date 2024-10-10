@@ -1,0 +1,24 @@
+{
+  "pageTitle": "Details",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+      { "text": "edit message" }
+  ],
+ 
+  "bio": { "title": "description", "longText": "" },
+  
+
+  "ARE":{
+   
+    "bio": { "title": "description", "longText": "" }
+
+
+  },
+
+ 
+  
+  "avatar": {
+      "src": "images/avatar/blog.jpeg",
+      "alt": "avatar"
+  }
+}

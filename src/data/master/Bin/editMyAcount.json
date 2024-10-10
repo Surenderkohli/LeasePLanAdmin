@@ -1,0 +1,30 @@
+{
+  "pageTitle": "My account",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+      
+      { "text": "edit account" }
+  ],
+  "id": { "title": "unique id", "value": "#783404edft97e3445" },
+  "name": { "title": "name", "value": "Miron Mahmud" },
+  "email": { "title": "email", "value": "demo@example.com" },
+
+  "role": { "title": "role", "activeOption": "Select role", "option": ["CEO","Consultant","Receptionist","PA","HR"]  },
+  "status": { "title": "status", "activeOption": "Select status", "option": ["active","inactive"] },
+  "bio": { "title": "biography", "longText": "" },
+  "phone": { "title": "contact no."
+, "value": "+8801838288389" },
+  "emirates": { "title": "emirates", "value": "Dubai" },
+  "zip": { "title": "zip", "value": "23456" },
+
+
+
+ 
+  "create": { "title": "create", "value": "15/06/2022 14:02" },
+  "address": { "title": "address", "longText": "3379  Monroe Avenue, Fort Myers, Florida(33912)" },
+  
+  "avatar": {
+      "src": "images/avatar/avatar.png",
+      "alt": "avatar"
+  }
+}

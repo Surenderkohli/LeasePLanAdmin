@@ -1,0 +1,46 @@
+{
+    "pageTitle": "Slots Details",
+    "breadcrumb": [
+        { "path": "/leads-section", "text": "home" },
+        { "text": "Slots-list" }
+    ],
+    "dotsMenu": {
+        "dots": "more_horiz",
+        "dropdown": [
+            { "icon": "edit", "text": "edit" },
+            { "icon": "delete", "text": "delete" },
+            { "icon": "download", "text": "download" }
+        ]
+    },
+    "float": [
+        { "title": "pending Employees", "digit": "547", "icon": "pending", "variant": "lg purple" }, 
+        { "title": "shipped Employees", "digit": "398", "icon": "local_shipping", "variant": "lg blue" },
+        { "title": "recieved Employees", "digit": "605", "icon": "shopping_bag", "variant": "lg green" },
+        { "title": "cancelled Employees", "digit": "249", "icon": "remove_circle", "variant": "lg red" }
+    ],
+    "status": { "title": "status", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+    "role": { "title": "role", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+  
+  
+    "filter":[
+        { "label": "search by", "type": "search", "placeholder": "email" }
+    ],
+    "table":{
+        "thead": [" name", "email",  "set status"],
+        "tbody": [
+            
+            {
+                "id": "#4985",
+                "src": "images/avatar/06.webp",
+                "alt": "client",
+                "name": "kurulus osman", 
+                "product": "(4) item",
+                "amount": "$79.00", 
+                "status": { "text": "pending", "variant": "purple" },
+                "payment": "cash on delivery",
+                "date": "15/06/2022 14:02",
+                "action": { "delete": "delete", "download": "download", "view": "visibility" }
+            }
+        ]
+    }
+  }

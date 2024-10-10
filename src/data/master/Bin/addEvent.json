@@ -1,0 +1,27 @@
+{
+  "pageTitle": "Add Event",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+     
+      { "text": "add event" }
+  ],
+  "id": { "title": "unique id", "value": "#783404edft97e3445" },
+  "name": { "title": "title", "value": "Miron Mahmud" },
+  "event": { "title": "event date & time", "value": "Miron Mahmud" },
+  "organizer": { "title": "organizer's name", "value": "Miron Mahmud" },
+  "status": { "title": "status", "activeOption": "Select status", "option": ["active", "inactive"]},
+
+  "bio": { "title": "description", "longText": "" },
+
+  "ARE":{
+    "name": { "title": "لقب", "value": "Miron Mahmud" },
+    "status": { "title": "الحالة", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+    "bio": { "title": "وصف", "longText": "" }
+  },
+  
+  
+  "avatar": {
+      "src": "images/avatar/event.jpg",
+      "alt": "avatar"
+  }
+}

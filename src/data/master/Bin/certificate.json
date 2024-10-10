@@ -1,0 +1,48 @@
+{
+  "pageTitle": "Awards and Certifications Details",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+      { "text": "Awards and Certifications" }
+  ],
+  "cardTitle": "practices",
+  "dotsMenu": {
+      "dots": "more_horiz",
+      "dropdown": [
+          { "icon": "edit", "text": "edit" },
+          { "icon": "delete", "text": "delete" },
+          { "icon": "download", "text": "download" }
+      ]
+  },
+  "float": [
+      { "title": "pending clients", "digit": "547", "icon": "pending", "variant": "lg purple" }, 
+      { "title": "approved clients", "digit": "605", "icon": "check_circle", "variant": "lg green" },
+      { "title": "blocked clients", "digit": "249", "icon": "remove_circle", "variant": "lg red" }
+  ],
+  "filter":[
+    
+     
+      { "label": "search by", "type": "search", "placeholder": "title" }
+  ],
+  "table":{
+      "thead": ["img", "link"],
+      "tbody": [
+          {
+              "role": { "icon": "person", "text": "member" },
+              "src": "images/avatar/01.webp",
+              "name": "mahmudul hasan mahmudul hasan mahmudul hasan mahmudul hasan mahmudul hasan mahmudul hasan", 
+              "email": "miron@gmail.com", 
+              "password": "$2a$06$4Uoeanolkkpo8gBDNIYt6eid0Qm8cCwsYU5VwaQcBsB6KISR1kwf2",
+              "phone": "o1838288389", 
+               "status": "active",
+              "created": "15/06/2022 14:02",
+              "action": { "edit": "edit", "block": "block", "view": "visibility" }
+          }
+      ]
+  },
+  "role": ["founder", "admin", "member", "client", "vendor"],
+  "status": ["approved", "pending", "blocked"],
+  "avatar": {
+    "src": "images/avatar/blog.jpeg",
+    "alt": "avatar"
+}
+}

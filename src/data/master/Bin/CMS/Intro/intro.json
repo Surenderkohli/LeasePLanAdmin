@@ -1,0 +1,43 @@
+{
+    "pageTitle": "Details",
+    "breadcrumb": [
+        { "path": "/leads-section", "text": "home" },
+      
+        { "text": "Page's Introduction" }
+    ],
+    "id": { "title": "unique id", "value": "#783404edft97e3445" },
+    "name": { "title": "title", "value": "Miron Mahmud" },
+    "email": { "title": "email", "value": "demo@example.com" },
+  
+    "role": { "title": "role", "activeOption": "member", "option": ["member", "admin", "vendor", "founder"] },
+    "status": { "title": "status", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+    "bio": { "title": "description", "longText": "" },
+    "phone": { "title": "phone", "value": "+8801838288389" },
+    "emirates": { "title": "emirates", "value": "Dubai" },
+    "zip": { "title": "zip", "value": "23456" },
+  
+    "ARE":{
+      "name": { "title": "لقب", "value": "Miron Mahmud" },
+      "status": { "title": "الحالة", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+      "bio": { "title": "وصف", "longText": "" }
+  
+  
+    },
+    "intro":{
+      "name": { "title": "intro", "value": "demo@example.com" }
+    },
+    "ceo":{
+      "name": { "title": "message", "value": "demo@example.com" }
+    },
+  
+  
+  
+   
+    "create": { "title": "create", "value": "15/06/2022 14:02" },
+    "address": { "title": "address", "longText": "3379  Monroe Avenue, Fort Myers, Florida(33912)" },
+    
+    "avatar": {
+        "src": "images/avatar/blog.jpeg",
+        "alt": "avatar"
+    }
+  }

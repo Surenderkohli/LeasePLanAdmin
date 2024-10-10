@@ -1,0 +1,24 @@
+{
+  "pageTitle": "Add Blog",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+    
+      { "text": "add Blog" }
+  ],
+  "id": { "title": "unique id", "value": "#783404edft97e3445" },
+  "name": { "title": "title", "value": "Miron Mahmud" },
+  "status": { "title": "status", "activeOption": "select status", "option": ["active","inactive"] },
+  "bio": { "title": "description", "longText": "" },
+
+  "ARE":{
+    "name": { "title": "لقب", "value": "Miron Mahmud" },
+    "status": { "title": "status", "activeOption": "select status", "option": ["active","inactive"] },
+    "bio": { "title": "وصف", "longText": "" }
+  },
+  
+  
+  "avatar": {
+      "src": "images/avatar/blog.jpeg",
+      "alt": "avatar"
+  }
+}

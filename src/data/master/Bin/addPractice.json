@@ -1,0 +1,32 @@
+{
+  "pageTitle": "Add Practice",
+  "breadcrumb": [
+      { "path": "/leads-section", "text": "home" },
+     
+      { "text": "add practice" }
+  ],
+  "id": { "title": "unique id", "value": "#783404edft97e3445" },
+  "name": { "title": "title", "value": "Miron Mahmud" },
+  "email": { "title": "email", "value": "demo@example.com" },
+
+  "role": { "title": "role", "activeOption": "member", "option": ["member", "admin", "vendor", "founder"] },
+  "status": { "title": "status", "activeOption": "Select status", "option": ["active", "inactive"]},
+
+  "bio": { "title": "description", "longText": "" },
+  "phone": { "title": "phone", "value": "+8801838288389" },
+  "emirates": { "title": "emirates", "value": "Dubai" },
+  "zip": { "title": "zip", "value": "23456" },
+  "create": { "title": "create", "value": "15/06/2022 14:02" },
+  "address": { "title": "address", "longText": "3379  Monroe Avenue, Fort Myers, Florida(33912)" },
+
+  "ARE":{
+    "name": { "title": "لقب", "value": "Miron Mahmud" },
+    "status": { "title": "الحالة", "activeOption": "approved", "option": ["approved", "pending", "blocked"] },
+    "bio": { "title": "وصف", "longText": "" }
+  },
+  
+  "avatar": {
+      "src": "images/avatar/practice.jpg",
+      "alt": "avatar"
+  }
+}

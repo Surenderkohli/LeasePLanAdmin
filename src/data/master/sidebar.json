@@ -1,0 +1,91 @@
+{
+    "navs": [
+        {
+            "title": "",
+            "menu": [
+                {
+                    "href": "/home",
+                    "icon": "dashboard",
+                    "text": "Dashboard"
+                },
+                {
+                    "icon": "playlist_add",
+                    "text": "Master",
+                    "submenu": [
+                        {
+                            "href": "/add-carbrand",
+                            "text": "Add Carbrand"
+                        },
+                        {
+                            "href": "/add-carseries",
+                            "text": "Add CarSeries"
+                        }
+                    ]
+                },
+                {
+                    "icon": "lock",
+                    "text": "Inventory",
+                    "submenu": [
+                        {
+                            "href": "/add-car",
+                            "text": "Add Inventory"
+                        },
+                        {
+                            "href": "/inventory",
+                            "text": "Show Inventory"
+                        }
+                    ]
+                },
+                {
+                    "icon": "local_offer",
+                    "text": "Inventory Offers",
+                    "href": "/offers"
+                },
+                {
+                    "icon": "pix",
+                    "text": "Banner",
+                    "submenu": [
+                        {
+                            "href": "/banner",
+                            "text": " Manage Banner"
+                        }
+                    ]
+                },
+                {
+                    "href": "/contact-details",
+                    "icon": "article",
+                    "text": "Query details"
+                },
+                {
+                    "icon": "class",
+                    "text": "Lease details",
+                    "submenu": [
+                        {
+                            "href": "/lease-details",
+                            "text": "Add Lease details"
+                        },
+                        {
+                            "href": "/lease-details",
+                            "text": "Show Lease"
+                        }
+                    ]
+                },
+                {
+                    "icon": "account_circle",
+                    "text": "users",
+                    "submenu": [
+                        {
+                            "href": "/my-account",
+                            "text": "my account"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "button": {
+        "icon": "lock",
+        "path": "/login",
+        "text": "logout"
+    }
+}
